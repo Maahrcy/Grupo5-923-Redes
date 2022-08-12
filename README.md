@@ -16,6 +16,9 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 
 [Acessar o documento com as tabelas](https://docs.google.com/spreadsheets/d/1wC8-0qN_uJ9s-l_1ESp-2WHDWGVcQKEaONAI2HTbjAo/edit?usp=sharing)
 
+## Ilustração da Rede P2P a ser criada
+![](p2p.jpg)
+
 ## Tutorial
 
 - [Criando uma máquina virtual](creating.md)
