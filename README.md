@@ -19,6 +19,11 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 ## Tutorial Passo-a-Passo
 
 [Criando uma máquina virtual](creating.md)
+[Rede P2P com duas VMs](p2p-2vm.md)
+[Modificando hostname das VMs](hostname.md)
+[Nomes estáticos](static.md)
+[Host-Only](host-only.md)
+[Rede LAN P2P](lan-p2p.md)
 
 ### Criando uma máquina virtual
 
