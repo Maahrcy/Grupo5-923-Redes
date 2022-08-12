@@ -33,6 +33,7 @@ sudo mkdir /labredes # Caso o diretório ``labredes`` ainda não esteja criado
 5. No terminal, digite o comando: 
 ```
 sudo usermod -aG redes aluno # Para adicionar ``aluno`` a ``redes``
+```
 6. Modifique as permissões de acesso a partir dos comandos sequenciais: 
 ```
 sudo mkdir /labredes/images/original # Caso o diretório não exista
@@ -41,6 +42,7 @@ sudo mkdir /labredes/VM/923/<Nome> # Caso o diretório não exista
 7. Verifique a existência das imagens a partir do comando:
 ```
 ls -la /labredes/images/original # Os arquivos .iso precisam estar nesse diretório
+```
 8. No terminal, digite o comando: 
 ```
 sudo apt install virtualbox-ext-pack # Caso o Virtual Extension Pack não esteja instalado
@@ -93,6 +95,7 @@ ping 192.168.23.66
 
 ### Modificando hostname das VMs
 Os passos a seguir devem ser realizados em ambas as VMs
+
 1. No terminal da VM, digite o comando: 
 ```
 sudo hostnamectl set-hostname srv-vm[1-2]-pc[1-4]-<Nome> # Por exemplo: srv-vm1-pc2-macielly
@@ -144,6 +147,7 @@ sudo nano /etc/hosts
 
 1. *ARQUIVO* --> *HOST NETWORK MANAGER*
 2. *HABILITAR SERVIDOR DHCP*
+
 Os passos a seguir devem ser realizados em ambas as VMs
 
 3. Acesse as _configurações_ da VM --> _Rede_ --> adicione um *ADAPTADOR 2*
