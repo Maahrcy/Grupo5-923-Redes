@@ -18,6 +18,8 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 
 ## Tutorial Passo-a-Passo
 
+[Criando uma máquina virtual](creating.md)
+
 ### Criando uma máquina virtual
 
 1. Abrir o terminal no PC LINUX
