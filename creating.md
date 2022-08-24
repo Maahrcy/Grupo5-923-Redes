@@ -5,6 +5,9 @@
 ```
 su redes
 ```
+
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/su-redes-img.jpg' width='500' height='300'>
+
 3. Logue em _redes_ com a senha _admin@Lab92_
 4. No terminal, digite o comando: 
 ```
