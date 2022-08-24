@@ -29,3 +29,7 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 - [Rede LAN P2P](lan-p2p.md)
 
 
+## Pings entre as VMs
+
+- [Conexão entre as VMs dos PCs](conection.md)
+
