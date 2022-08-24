@@ -19,6 +19,9 @@ network:
       dhcp4: false
   version: 2
 ```
+
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/netplan-cfg-img.jpeg' width='500' height='300'>
+
 5. Salve o arquivo com _Control X_ --> _Y_ --> _Enter_
 6. Aplique as configurações com o seguinte comando: 
 ```
