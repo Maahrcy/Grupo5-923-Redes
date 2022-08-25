@@ -31,3 +31,4 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 
 - [Conexão entre as VMs dos PCs](conection.md)
 - [Conexão entre todas as VMs de todos os PCs com switch](switch-connected.md)
+- [SSH nas VMs dos PCs](ssh-connection.md)
