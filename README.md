@@ -15,7 +15,7 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 [Acessar o documento com as tabelas](https://docs.google.com/spreadsheets/d/1wC8-0qN_uJ9s-l_1ESp-2WHDWGVcQKEaONAI2HTbjAo/edit?usp=sharing)
 
 ## Ilustração da Rede P2P a ser criada
-<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/p2p.jpg'>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/switch-connection.jpg'>
 
 ## Tutorial
 
