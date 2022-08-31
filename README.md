@@ -1,3 +1,19 @@
+<div align='center'>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/ifal.png' width='100' height='130'>
+
+**Instituto Federal de Alagoas - Campus Arapiraca**
+
+**Integrantes:** [Julia Vitória Farias da Silva](https://github.com/juliavitoriav), [Macielly da Trindade Almeida](https://github.com/Maahrcy) e [Maria Catielly dos Santos Silva](https://github.com/Mcatielly)
+
+**Professor:** [Alaelson](https://github.com/alaelson/)
+
+**Disciplina:** Infraestrutura de Redes
+
+**Turma:** 923
+
+**Grupo:** 5
+</div>
+
 # Grupo5-923-Redes
 Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 
