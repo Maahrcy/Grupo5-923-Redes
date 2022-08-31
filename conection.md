@@ -12,4 +12,3 @@
 4. Píng entre a VM2 do PC2 e a VM2 do PC3
 <img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/vm2-pc3-to-vm2-pc2.png' width='500' height='300'>
 
-
