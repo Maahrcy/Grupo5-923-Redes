@@ -31,6 +31,7 @@ Após realizados os passos anteriores em ambas as VMs, feche-as e acesse as _con
 8. Altere o *NOME* para _labredes_
 
 Faça os passos anteriores em ambas as VMs
+
 9. Execute as VMs novamente e teste o ping nas VMs com o comando: 
 ```
 ping 192.168.23.[64-78]
