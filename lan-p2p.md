@@ -1,4 +1,4 @@
-## Rede LAN P2P
+## Rede LAN
 Os passos a seguir devem ser realizados em todas as VMs de todos os PCs
 1. Acesse as _configurações_ da VM --> _Rede_ --> modifique para *PLACA EM MODO BRIDGE* 
 2. Modifique o *NOME* para *eno1*
