@@ -36,8 +36,18 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 
 [Acessar o documento com as tabelas](https://docs.google.com/spreadsheets/d/1wC8-0qN_uJ9s-l_1ESp-2WHDWGVcQKEaONAI2HTbjAo/edit?usp=sharing)
 
-## Ilustração da Rede P2P a ser criada
+## Tipologia lógica da rede
 <img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/switch-connection.jpg'>
+
+## Tipologia física da rede
+<div>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/tf-1.jpg' width='300' height='250'>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/tf-2.jpg' width='300' height='250'>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/tf-3.jpg' width='300' height='250'>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/tf-4.jpg' width='300' height='250'>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/tf-5.jpg' width='300' height='250'>
+<img src='https://github.com/Maahrcy/Grupo5-923-Redes/blob/main/img/tf-6.jpg' width='300' height='250'>
+</div>
 
 ## Tutorial
 
@@ -56,3 +66,4 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 - [Conexão entre todas as VMs de todos os PCs com switch](switch-connected.md)
 - [SSH nas VMs dos PCs](ssh-connection.md)
 - [Configurações das VMs dos PCs](cfg-vm.md)
+
