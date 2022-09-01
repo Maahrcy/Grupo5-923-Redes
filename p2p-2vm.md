@@ -1,4 +1,4 @@
-## Rede P2P com duas VMs 
+## Rede com duas VMs 
 Os próximos passos devem ser realizados em ambas as VMs
 1. Execute a VM
 2. Logue em _administrador_ com a senha _adminifal_
@@ -12,9 +12,9 @@ sudo nano /etc/netplan/01-netcfg.yaml # para editar o arquivo
 network: 
   ethernets:
     enp0s3:
-      addresses: [192.168.23.[64-78]/28] 
+    addresses: [192.168.23.66/28]
       # Por exemplo: 
-      # addresses: [192.168.23.66/28]
+      # addresses: [192.168.23.[64-78]/28] 
       gateway4: 192.168.23.79
       dhcp4: false
   version: 2
