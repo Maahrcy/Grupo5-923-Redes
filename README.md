@@ -42,11 +42,12 @@ Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 ## Tutorial
 
 - [Criando uma máquina virtual](creating.md)
-- [Rede P2P com duas VMs](p2p-2vm.md)
+- [Rede com duas VMs](p2p-2vm.md)
 - [Modificando hostname das VMs](hostname.md)
 - [Nomes estáticos](static.md)
 - [Host-Only](host-only.md)
-- [Rede LAN P2P](lan-p2p.md)
+- [Rede LAN](lan-p2p.md)
+- [Adicionando usuários](adduser.md)
 
 
 ## Pings entre as VMs
