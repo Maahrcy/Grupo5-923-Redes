@@ -17,6 +17,12 @@
 # Grupo5-923-Redes
 Repositório para o projeto do 2º bimestre de Infraestrutura de Redes.
 
+## Objetivos
+- Testar os conhecimentos adquiridos em sala de aula;
+- Criar tutorial de como conectar diversas VMs simultaneamente;
+- Conectar as VMs dos PCs por meio do switch;
+- Acessar uma VM remotamente por meio do SSH.
+
 ## Tabelas 
 
 | DESCRIÇÃO  |  IP  |  hostname  |  FQDN  |  aliase  |
