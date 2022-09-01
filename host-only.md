@@ -15,9 +15,9 @@ sudo nano /etc/netplan/01-netcfg.yaml
 network: 
   ethernets:
     enp0s3:
-      addresses: [192.168.23.[64-78]/28] 
+      addresses: [192.168.23.66/28]
       # Por exemplo: 
-      # addresses: [192.168.23.66/28]
+      # addresses: [192.168.23.[64-78]/28] 
       gateway4: 192.168.23.79
       dhcp4: false
     enp0s8:
